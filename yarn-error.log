@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\vtyur\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js
+  C:\Program Files\nodejs\node.exe C:\Users\vtyur\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add package-name
 
 PATH: 
   C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vtyur\AppData\Local\Microsoft\WindowsApps;C:\Users\vtyur\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PhpStorm 2022.2.3\bin;;C:\php;C:\Users\vtyur\AppData\Roaming\Composer\vendor\bin;C:\Users\vtyur\AppData\Local\GitHubDesktop\bin;C:\Users\vtyur\AppData\Roaming\npm
