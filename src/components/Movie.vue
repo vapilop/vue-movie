@@ -71,5 +71,6 @@ const isFav = (imdbID) => {
 
       {{ movie.Year }}
     </div>
+    
   </div>
 </template>
